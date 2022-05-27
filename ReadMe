@@ -1,0 +1,6 @@
+This is a Netbeans Project written in java.
+import it to your Netbeans to run the project.
+the project is a sample ticket system, where the main showcase is ticket making.
+the system has two types of accounts, client and IT.
+Access the two type of accounts by using the generic usernames: client ("bob") and IT ("jon").
+Password is not checked, so enter anything.
